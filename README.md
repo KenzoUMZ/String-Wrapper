@@ -1,16 +1,7 @@
-# string_wrapper
+# String Wrapper
+Este app implementa o padrão de projeto Observer, onde clientes podem se inscrever para receberem dados sobre uma nova Stringç
 
-This is an app that get words from one String.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Para rodar este projeto:
+1 - Flutter devidamente instalado.  
+2 - Executar o comando no diretorio do projeto **flutter pub get** para pegar as dependencias.  
+3 - Executar **flutter run**
